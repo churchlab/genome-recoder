@@ -50,11 +50,9 @@ If using Linux, you probably want to download the RPM and use these instructions
 
 If using virtualenv, be sure the correct python environment is activated.
 
-    ./run_tests.sh
-
     cd src/
 
-    ./run_tests.sh/
+    ./run_tests.sh
 
 ## Usage
 
