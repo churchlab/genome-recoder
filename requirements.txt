@@ -1,0 +1,5 @@
+biopython==1.67
+cogent==1.9
+numpy==1.11.1
+PyVCF==0.6.8
+PyYAML==3.11
