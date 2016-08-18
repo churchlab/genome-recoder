@@ -32,13 +32,8 @@ def main(tmp_file_prefix):
 
 
 if __name__ == '__main__':
-    import cProfile
     from datetime import datetime
-    import os
-
-    from refactor_config import OUTPUT_DIR
 
     TMP_FILE_PREFIX = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
-    CPROFILE_OUTPUT_DEST = os.path.join(
-            OUTPUT_DIR, TMP_FILE_PREFIX + '_cprofile.out')
-    cProfile.run('main(TMP_FILE_PREFIX)', CPROFILE_OUTPUT_DEST)
+
+    main(TMP_FILE_PREFIX)

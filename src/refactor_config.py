@@ -273,5 +273,8 @@ RESTRICTION_ENZYME_SITES_TO_REMOVE = [
         Restriction.AarI
 ]
 
-AGN_SEPARATION_DATA_FILE = '/home/glebk/Projects/churchlab/genome-refactor/data/completed_segments/seg5-seg48/AGN_debug_MJL.csv'
+###############################################################################
+# Manual edits
+###############################################################################
 
+AGN_SEPARATION_DATA_FILE = os.path.join(CONFIG_DIR, 'AGN_debug_MJL.csv')
