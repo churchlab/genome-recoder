@@ -61,3 +61,5 @@ The main entry point to the code is `src/main.py`. After setting up the proper P
     cd src/
 
     python main.py
+    
+Results are written to `src/output`.
