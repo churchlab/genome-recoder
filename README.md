@@ -61,5 +61,17 @@ The main entry point to the code is `src/main.py`. After setting up the proper P
     cd src/
 
     python main.py
-    
+
 Results are written to `src/output`.
+
+## License
+
+Copyright (C) 2016 The President and Fellows of Harvard College
+
+The Genome Recoder software is available under an internal non-commercial
+research and academic use license.  Questions about this software or the
+licensing thereof can be addressed to  Office of Technology Development,
+Harvard University, email: otd@harvard.edu.
+
+See the LICENSE file.
+
