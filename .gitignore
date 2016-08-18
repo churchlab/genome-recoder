@@ -1,0 +1,13 @@
+*.swp
+*.pyc
+*~
+*.out
+tmp/
+*cache/
+*.cache
+venv/
+*.~lock*
+ec_alignments/blocks_new/
+.ipynb_checkpoints/
+rbs_calc/
+output/

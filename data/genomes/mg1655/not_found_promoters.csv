@@ -1,0 +1,102 @@
+id,name,strand,tss_pos,sigma_factor,promoter_seq,evidence
+ECK120033666,aceKp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120026310,allRp,forward,0,,,[IMP|W|Inferred from mutant phenotype]
+ECK120033701,alsBp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033672,argQp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033656,aspUp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033673,cadAp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033689,caiCp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033724,casDp,reverse,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120010074,ccmAp,reverse,0,Sigma70,,[TIM|S|Transcription initiation mapping]
+ECK120033674,csgCp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033671,cysHp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033637,dcdp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033696,deoAp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033649,deoRp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033677,dhaMp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033642,elaBp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120010505,fimBp3,forward,0,,,[TIM|S|Transcription initiation mapping]
+ECK120029598,fliDp1,forward,0,Sigma28,,"[HIPP|W|Human inference of promoter position],[FP|S|Footprinting]"
+ECK120033675,fliYp,reverse,0,Sigma38,,"[IMP|W|Inferred from mutant phenotype],[IEP|W|Inferred from expression pattern]"
+ECK120033644,folXp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033665,fucRp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120010023,garDp,forward,0,,,[IC|W|Inferred by curator]
+ECK120015410,gatR_2p,reverse,0,,,[TIM|S|Transcription initiation mapping]
+ECK120033669,gcvPp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033695,glcBp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033708,glnWp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120009978,gltIp,reverse,0,Sigma54,,[AIPP|W|Automated inference of promoter position]
+ECK120033668,glxKp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120010024,gudPp,reverse,0,,,[IC|W|Inferred by curator]
+ECK120033643,hdap,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033731,hfqp1,forward,0,Sigma32,,"[IDA|S|Inferred from direct assay],[HIPP|W|Human inference of promoter position],[TIM|S|Transcription initiation mapping],[IEP|W|Inferred from expression pattern]"
+ECK120033726,hspQp,reverse,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120030662,hypFp1,reverse,0,Sigma70,,[IDA|S|Inferred from direct assay]
+ECK120010052,idnRp,reverse,0,,,[AIPP|W|Automated inference of promoter position]
+ECK120033660,insNp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033683,lacYp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120010880,ldcCp,forward,0,Sigma38,,"[TAS|W|Traceable author statement],[IMP|W|Inferred from mutant phenotype]"
+ECK120033697,menDp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033640,mnmAp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033692,mreCp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033664,nrdGp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033691,nuoMp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033725,osmFp2,reverse,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120010071,pdxAp,reverse,0,,,"[TASES|W|Traceable author statement to experimental support],[NTAS|W|Non-traceable author statement]"
+ECK120033658,pdxYp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033657,pgsAp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033706,phnLp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033704,pspBp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033662,pspEp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033250,psrNp,forward,0,,,[TIM|S|Transcription initiation mapping]
+ECK120030809,psrOp,forward,0,,,[TIM|S|Transcription initiation mapping]
+ECK120033709,raiAp,forward,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033686,rfaZp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033684,rfbAp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120016985,rplLp,forward,0,,,"[IMP|W|Inferred from mutant phenotype],[IEP|W|Inferred from expression pattern]"
+ECK120033670,rrfGp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033693,rrlAp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033688,rrlBp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033690,rrlEp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033685,rrlHp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120016225,rtcRp,forward,0,Sigma54,,"[HIPP|W|Human inference of promoter position],[ICA|W|Inferred by computational analysis]"
+ECK120032979,ryeBp,reverse,0,,,[TIM|S|Transcription initiation mapping]
+ECK120032972,shoBp,reverse,0,Sigma70,,[TIM|S|Transcription initiation mapping]
+ECK120010653,surAp,reverse,0,Sigma24,,"[TASES|W|Traceable author statement to experimental support],[NTAS|W|Non-traceable author statement]"
+ECK120033705,tdcBp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033638,trkAp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033647,tsaBp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120051392,tsaEp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033703,tyrVp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033679,ubiXp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033651,yacGp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033667,yadCp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033710,yafUp,reverse,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033700,yaiAp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033663,yajOp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033676,ybjNp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033715,yccEp,forward,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033712,ydeOp,reverse,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033653,ydeQp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033661,yegWp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033711,yehRp,forward,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033639,yehSp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033641,yfcDp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033655,yfcEp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120030661,yffBp,forward,0,Sigma70,,[IDA|S|Inferred from direct assay]
+ECK120033648,yfhLp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033645,yggDp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033659,yhfKp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120029604,yhiLp,reverse,0,Sigma28,,[HIPP|W|Human inference of promoter position]
+ECK120033714,yiaAp,reverse,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033721,yibAp,forward,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120029597,yjcSp,reverse,0,Sigma28,,[HIPP|W|Human inference of promoter position]
+ECK120033680,yjfKp,forward,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033718,yjhIp,reverse,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033707,yjiTp,forward,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033682,yjiXp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033694,ykfGp,reverse,0,,,[IEP|W|Inferred from expression pattern]
+ECK120033719,ypjMp,reverse,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033716,yrdAp,forward,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK120033720,yrfGp,forward,0,Sigma32,,"[IDA|S|Inferred from direct assay],[IEP|W|Inferred from expression pattern]"
+ECK125138145,,forward,0,Sigma38,,

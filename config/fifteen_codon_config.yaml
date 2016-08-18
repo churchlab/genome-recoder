@@ -1,0 +1,21 @@
+description: Original radical recoding config.
+
+# NOTE: Codons with a prime after the AA should be ready for 3 novel AA-tRNAs.
+forbidden_codons:
+    - 'ACC' # T
+    - 'AGA' # R
+    - 'AGG' # R
+    - 'AGT' # S'
+    - 'AGC' # S'
+    - 'ATA' # I
+    - 'CCC' # P
+    - 'CGG' # R
+    - 'GCC' # A
+    - 'GTC' # V
+    - 'TAG' # B'
+    - 'TGA' # * (but keep when coding for Selenocysteine)
+    - 'TTA' # L'
+    - 'TTG' # L'
+    - 'TCC' # S
+
+codon_usage: 'mds42_fifteen_codon_usage_with_projections.csv'

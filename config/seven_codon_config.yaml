@@ -1,0 +1,22 @@
+date_created: 2013-08-26
+
+description: Less radical recoding.
+
+num_cores: 4
+
+forbidden_codons:
+    - 'TTA'
+    - 'TTG'
+    - 'AGA'
+    - 'AGG'
+    - 'AGC'
+    - 'AGT'
+    - 'TAG'
+
+
+# This file must be placed in the config/ dir.
+codon_usage: 'mds42_seven_codon_usage_with_projections.csv'
+
+# Optionl file containing a list of "hard-coded" fixes to be made outside of
+# the feature-profile-maintaining algorithm.
+bulk_manual_fixes: 'rc2/2013_08_25_esAGRs.txt'
