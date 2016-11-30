@@ -1,6 +1,6 @@
-# Genome Recoder
+# rE.coli-57 software
 
-Software library for recoding genomes used in **Ostrov et al. (2016). Design, synthesis, and testing toward a 57-codon genome. Science, 353(6301)**. Please cite this paper.
+Software library for recoding genomes used in **Ostrov et al. (2016). Design, synthesis, and testing toward a 57-codon genome. Science, 353(6301)**.
 
 Please contact us if you're interested in using this software for your own recoding projects: Gleb Kuznetsov (kuznetsov@g.harvard.edu)
 
